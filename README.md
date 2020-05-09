@@ -1,5 +1,8 @@
 # hidattack
 Human Interface Device attack happens when a USB device claims itself to be a keyboard and starts to injects a malicious sequence of keyboard strokes.
+
+![UI](https://github.com/midist0xf/hidattack/blob/master/atiny.jpg)
+
 ## Prerequisites
 - Digispark ATiny85
 - Arduino
