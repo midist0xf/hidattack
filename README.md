@@ -11,5 +11,8 @@ More info on HIDattacks and the instructions to setup everything can be found [h
 ## Payloads
 Payloads may have to be modified for a specific target. Changes depend on target's Desktop Environment, default shortcuts, keyboard layout etc. 
 ### Linux 
-- [Reverse Shell - Minimum persistence](https://github.com/midist0xf/hidattack/blob/master/revshell/revshell.ino): creates an hidden reverse shell script which runs at every login.
+- [Reverse Shell - Minimum persistence](https://github.com/midist0xf/hidattack/blob/master/linux_revsh/linux_revsh.ino): creates an hidden reverse shell script which runs at every login.
+### Windows
+- [Reverse Shell - Minimum persistence](https://github.com/midist0xf/hidattack/blob/master/win_revsh/win_revsh.ino): creates an hidden reverse shell script which runs at every login.
+
 
